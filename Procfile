@@ -1,1 +1,1 @@
-web: vendor/bin/api-twilio-php
+web: public/
